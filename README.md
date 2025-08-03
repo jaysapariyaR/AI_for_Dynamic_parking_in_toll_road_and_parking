@@ -48,14 +48,9 @@ By implementing AI-based dynamic pricing, this system aims to:
 
 ## ⚙️ Setup Instructions
 
-### 1. Clone the repository and enter the project folder:
+### 1. Clone the repository
 
-```bash
-git clone https://github.com/your-username/ai-dynamic-pricing.git
-cd ai-dynamic-pricing
-
-
-2. Install all required packages:
+### 2. Install all required packages:
 
 '''
 bash
@@ -64,7 +59,8 @@ pip install -r requirements.txt
 
 '''
 
-🚀 Usage Guide
+
+## 🚀 Usage Guide
 
 ✅ Step 1: Train the model (and generate model.pkl and label_encoders.pkl)
 
@@ -99,8 +95,6 @@ Simulate how users may respond to that price
 
 
 
-<img width="1000" height="431" alt="UI Dashboards1" src="https://github.com/user-attachments/assets/19bfcb83-3867-438a-a3c6-8809a24398ef" />
-<img width="1027" height="778" alt="UI Dashboards" src="https://github.com/user-attachments/assets/154ac6d0-4a7f-40ab-9136-707c5f893f83" />
 
 
 
